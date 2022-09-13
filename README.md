@@ -11,7 +11,7 @@
 
 
 ### Creating the OTP 
-For this tutorial, we will create a six digit number for the OTP. If you think about it, it's the same way you will create the numbers on your Master Card if you were to work on a Fintech that needed you to write a code to generate Mastercard card details. 
+If you think about it, it's the same way you will create the numbers on your Master Card if you were to work on a Fintech that needed you to write a code to generate Mastercard card details. 
 
 You will only need to put certain functions or constraints depending on what you want to achieve. 
 
